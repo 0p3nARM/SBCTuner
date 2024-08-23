@@ -1,7 +1,7 @@
 
 # SBCTuner
 
-An overclocking tool written in Python for SBCs. It is currently in alpha and supports only the Raspberry Pi 4B
+An overclocking tool written in Python for SBCs. It is currently in alpha and supports only the Raspberry Pi 4B and Raspberry Pi 5
 
 
 ## Installation
